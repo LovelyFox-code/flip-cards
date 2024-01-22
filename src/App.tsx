@@ -28,9 +28,12 @@ function App() {
             <h1>Flip cards</h1>
             <div className="input-group">
                 <label className="input-group__label" htmlFor="myInput">Add new word to learn here</label>
-                <Input value={isEnglish} onHandleChange={setIsEnglish} label="English:"/>
-                <Input value={isDutch} onHandleChange={setIsDutch} label="Dutch:"/>
-                <Button handleClick={handleAddTranslation}>Add</Button>
+                <div className="flex">
+                    <Input value={isEnglish} onHandleChange={setIsEnglish} label="English:"/>
+                    <Input value={isDutch} onHandleChange={setIsDutch} label="Dutch:"/>
+                    <Button handleClick={handleAddTranslation}>Add</Button>
+                </div>
+
             </div>
             <section id="team">
                 <div className="grid">

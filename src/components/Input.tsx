@@ -2,7 +2,7 @@ export function Input({label, value, onHandleChange}) {
 
 
     return (
-        <>
+        <div className="">
             <label className="input-group__label" htmlFor="myInput">{label}</label>
             <input
                 type="text"
@@ -11,6 +11,6 @@ export function Input({label, value, onHandleChange}) {
                 value={value}
                 onChange={(e) => onHandleChange(e.target.value)}
             />
-        </>
+        </div>
     );
 }
