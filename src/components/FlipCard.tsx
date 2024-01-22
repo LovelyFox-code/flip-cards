@@ -1,4 +1,5 @@
 export function FlipCard({nl, en}) {
+
     return (
         <div className="flip-card">
             <div className="flip-card-inner">
