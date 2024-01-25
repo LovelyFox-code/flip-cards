@@ -1,0 +1,223 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "text": "How would you write \"a very nice friend\"?",
+      "answers": [
+        "een heel aardige vriend",
+        "een groene boom",
+        "een hoog gebouw",
+        "een heel oude man"
+      ]
+    },
+    {
+      "id": "q2",
+      "text": "Which one of the following means \"square\"?",
+      "answers": [
+        "vierkant",
+        "rond/cirkelvormig",
+        "driehoekig",
+        "zoet",
+        "diep"
+      ]
+    },
+    {
+      "id": "q3",
+      "text": "Which one of the following means \"red\"?",
+      "answers": [
+        "rood",
+        "wit",
+        "blauw",
+        "geel",
+        "zwart"
+      ]
+    },
+    {
+      "id": "q4",
+      "text": "Which one of the following means \"today\"?",
+      "answers": [
+        "vandaag",
+        "onmiddellijk/meteen",
+        "gisteren",
+        "morgen",
+        "reeds/al"
+      ]
+    },
+    {
+      "id": "q5",
+      "text": "How would you write \"quickly\"?",
+      "answers": [
+        "snel/vlug",
+        "langzaam/traag",
+        "bijna",
+        "samen",
+        "echt"
+      ]
+    },
+    {
+      "id": "q6",
+      "text": "Which one of the following means the number \"six\"?",
+      "answers": [
+        "zes",
+        "drie",
+        "negen",
+        "zeven",
+        "zestien"
+      ]
+    },
+    {
+      "id": "q7",
+      "text": "How would you write \"green car\"?",
+      "answers": [
+        "groene auto",
+        "garage",
+        "mijn auto",
+        "drie auto's",
+        "buiten de auto"
+      ]
+    },
+    {
+      "id": "q8",
+      "text": "What's \"nose\" in Dutch?",
+      "answers": [
+        "neus",
+        "schouder",
+        "nek (back)/hals (front)",
+        "hart",
+        "oor"
+      ]
+    },
+    {
+      "id": "q9",
+      "text": "How would you write \"breakfast\"?",
+      "answers": [
+        "ontbijt",
+        "fruit",
+        "salade",
+        "diner/avondeten",
+        "vlees"
+      ]
+    },
+    {
+      "id": "q10",
+      "text": "How would you write \"we speak\"?",
+      "answers": [
+        "wij/we spreken",
+        "jij/je spreekt",
+        "zij/ze spreekt",
+        "ik spreek",
+        "hij spreekt"
+      ]
+    },
+    {
+      "id": "q11",
+      "text": "How would you write \"his chickens\"?",
+      "answers": [
+        "zijn kippen",
+        "hij is gelukkig",
+        "zij is Amerikaanse",
+        "onze dochter",
+        "hun kip"
+      ]
+    },
+    {
+      "id": "q12",
+      "text": "How would you write \"father\"?",
+      "answers": [
+        "vader",
+        "broer",
+        "jongen",
+        "stier",
+        "oom"
+      ]
+    },
+    {
+      "id": "q13",
+      "text": "How would you write \"we speak\"?",
+      "answers": [
+        "we spreken",
+        "ik hield van",
+        "ik schreef",
+        "we zullen glimlachen",
+        "ik zal geven"
+      ]
+    },
+    {
+      "id": "q14",
+      "text": "How would you write \"they became happy\"?",
+      "answers": [
+        "ze bleven lezen",
+        "ze verdwenen snel",
+        "zij vliegen morgen",
+        "ze werden gelukkig",
+        "ik kan daar naar luisteren"
+      ]
+    },
+    {
+      "id": "q15",
+      "text": "How would you write \"inside the house\"?",
+      "answers": [
+        "in het huis",
+        "buiten de auto",
+        "onder de tafel",
+        "voor zonsondergang",
+        "zonder hem"
+      ]
+    },
+    {
+      "id": "q16",
+      "text": "How would you write \"he doesn't speak\"?",
+      "answers": [
+        "Hij spreekt niet",
+        "niet binnenkomen",
+        "hij is niet hier",
+        "Ik rijd niet",
+        "Wij schrijven geen"
+      ]
+    },
+    {
+      "id": "q17",
+      "text": "How would you write \"how much is this?\"",
+      "answers": [
+        "hoeveel is dit?",
+        "waar is hij?",
+        "wat is dit?",
+        "hoe groot is het?",
+        "Hoe ver is dit?"
+      ]
+    },
+    {
+      "id": "q18",
+      "text": "How would you write \"raining\"?",
+      "answers": [
+        "regent",
+        "warm",
+        "sneeuwt",
+        "zonnig",
+        "koud"
+      ]
+    },
+    {
+      "id": "q19",
+      "text": "How would you write \"aunt\"?",
+      "answers": [
+        "tante",
+        "grootmoeder/oma",
+        "dochter",
+        "verpleegkundige",
+        "vrouw"
+      ]
+    },
+    {
+      "id": "q20",
+      "text": "How would you write \"congratulations\"?",
+      "answers": [
+        "gefeliciteerd/proficiat",
+        "dag/doei/doeg",
+        "sorry",
+        "echt",
+        "hallo"
+      ]
+    }
+  ]
+}
